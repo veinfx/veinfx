@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Kevin Park
+
+  
+## Work
+* TD
+- VFX studio
+- Republic of Korea
+- Jun 2023 – Present
+
+
+## Skill
+-  Python
+-  Houdini
+-  Nuke
+-  Maya
+-  FTP (Shotgrid)
+-  rez
+
+<!--
+**TD Intern**
+- VFX  studio
+- Republic of Korea
+- Mar 2023 – Jun 2023
+
+### Education
+
+**Netflix TD**
+- Rapa
+- Republic of Korea
+- Mar 2017 – Mar 2023
+-->
