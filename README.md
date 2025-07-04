@@ -15,23 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Kevin Park
+### Kevin
 
   
 ## Work
-* TD
+### TD
 - VFX studio
-- Republic of Korea
 - Jun 2023 – Present
 
 
 ## Skill
+### languge
 -  Python
+
+### Digital Content Creation Software (DCCs)
 -  Houdini
 -  Nuke
 -  Maya
+-  
+
+### RMS
+-  Tractor
+-  AWS Deadline
+
+### PMS
 -  FTP (Shotgrid)
+
+### etc
 -  rez
+-  
 
 <!--
 **TD Intern**
