@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Kevin
-
   
 ## Work
-### - VFX studio Vird TD
-- Jun 2023 – Present
+
+- 2023.06 ~ TD@studiovird
 
 
 ## Skill
 ### languge
 -  Python
+-  
+-
 
 ### Digital Content Creation Software (DCCs)
 -  Houdini
