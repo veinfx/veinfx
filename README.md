@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
   
 ## Work
-### TD
-- VFX studio
+### - VFX studio Vird TD
 - Jun 2023 – Present
 
 
@@ -39,7 +38,7 @@ Here are some ideas to get you started:
 -  AWS Deadline
 
 ### PMS
--  FTP (Shotgrid)
+-  FPT (Shotgrid, Shotgun)
 
 ### etc
 -  rez
