@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## Skill
-### languge
+### Languge
 -  Python
 
 ### Digital Content Creation Software (DCCs)
