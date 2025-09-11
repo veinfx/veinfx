@@ -23,15 +23,12 @@ Here are some ideas to get you started:
 ## Skill
 ### languge
 -  Python
--  
--
 
 ### Digital Content Creation Software (DCCs)
 -  Houdini
 -  Nuke
 -  Maya
--  
-
+  
 ### RMS
 -  Tractor
 -  AWS Deadline
@@ -41,7 +38,7 @@ Here are some ideas to get you started:
 
 ### etc
 -  rez
--  
+
 
 <!--
 **TD Intern**
