@@ -25,25 +25,23 @@ Here are some ideas to get you started:
 -  Python
 
 ### Digital Content Creation Software (DCCs)
--  Houdini
--  Nuke
--  Maya
+-  Houdini Nuke Maya
   
 ### RMS
--  Tractor
--  AWS Deadline
+-  Tractor, AWS Deadline, HQueue
 
 ### PMS
 -  FPT (Shotgrid, Shotgun)
 
 ### etc
--  rez
+-  REZ
 -  PySide2
 
 ### Project
 
 - WaveTheFinder <https://github.com/veinfx/WaveTherFinder>
 - Black Pepper (Team Hook) <https://github.com/veinfx/BlackPepper>
+  - UI, Houdini API(hou), Render(Mantram, HQueue)
 - SG Multi Asset Uploader <https://github.com/veinfx/open-sg-multi-asset-uploader>
 - SG AMI Excel Creator <https://github.com/veinfx/open-sg-excel-creator>
 
