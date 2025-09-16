@@ -40,6 +40,13 @@ Here are some ideas to get you started:
 -  rez
 -  PySide2
 
+### Project
+
+- WaveTheFinder <https://github.com/veinfx/WaveTherFinder>
+- Black Pepper (Team Hook) <https://github.com/veinfx/BlackPepper>
+- SG Multi Asset Uploader <https://github.com/veinfx/open-sg-multi-asset-uploader>
+- SG AMI Excel Creator <https://github.com/veinfx/open-sg-excel-creator>
+
 
 <!--
 **TD Intern**
