@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 -  REZ
 -  PySide2
 
-### Project
+
+## Project
 
 - WaveTheFinder <https://github.com/veinfx/WaveTherFinder>
 - Black Pepper (Team Hook) <https://github.com/veinfx/BlackPepper>
