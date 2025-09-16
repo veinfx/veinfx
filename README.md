@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - WaveTheFinder <https://github.com/veinfx/WaveTherFinder>
 - Black Pepper (Team Hook) <https://github.com/veinfx/BlackPepper>
-  - UI, Houdini API(hou), Render(Mantra, HQueue)
+  - UI(viewer), Houdini API(hou), HQueue(RMS)
 - SG Multi Asset Uploader <https://github.com/veinfx/open-sg-multi-asset-uploader>
 - SG AMI Excel Creator <https://github.com/veinfx/open-sg-excel-creator>
 
