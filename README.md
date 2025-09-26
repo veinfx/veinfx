@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Skill
 ### Languge
--  Python, C, Java
+-  Python
 
 ### Digital Content Creation Software (DCCs)
 -  Houdini Nuke Maya
