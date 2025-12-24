@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-## Work
-
-- 2023.06 ~ TD@studiovird
-
-
+<!--
 ## Skill
 ### Languge
 -  Python
@@ -37,7 +33,7 @@ Here are some ideas to get you started:
 -  REZ
 -  PySide2
 
-
+-->
 ## Project
 
 - WaveTheFinder <https://github.com/veinfx/WaveTherFinder>
