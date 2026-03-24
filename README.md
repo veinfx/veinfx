@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 -  PySide2
 
 -->
+<!--
 ## Project
 
 - WaveTheFinder <https://github.com/veinfx/WaveTherFinder>
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
   - UI(viewer), Houdini API(hou), RMS(HQueue)
 - SG Multi Asset Uploader <https://github.com/veinfx/open-sg-multi-asset-uploader>
 - SG AMI Excel Creator <https://github.com/veinfx/open-sg-excel-creator>
-
+-->
 
 <!--
 **TD Intern**
